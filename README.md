@@ -35,43 +35,15 @@ Waterfal: Não seria o mais viável, pela falta de flexibilidade, e como nosso p
 Incremental: Seria o mais adequado por conta do prazo de entrega e a forma de como o projeto pode ficar mais seguro ao longo de seu desenvolvimento, evitando alterações contínuas do código até a sua entrega final. Ágil: Não seria o mais viável por conta do curto prazo de entregas, podendo ser entregue um código com mal funcionamento e com defeitos. O contato contínuo com o cliente pode atrapalhar o desenvolvimento do projeto. 
 
 
+   Atividade 3
+   
+ Entrevistas anexadas
+
+ 
    Atividade 4 
  RF, RNF, Historia, regra de negocio
 
- Regra de negócio
-1 - As informações registradas durante o atendimento não devem ser perdidas em caso de indisponibilidade do sistema. 
-
-“Se acontecer uma indisponibilidade maior, eu precisaria pelo menos conseguir continuar atendendo e anotando as coisas para lançar depois. O que eu não gostaria é de perder informação porque o sistema ficou fora do ar.”
-
-
-
-
-Requisito Funcional
-1 - O sistema deve permitir registrar as informações referentes à ordem de serviço, incluindo observações, diagnóstico e serviços realizados. 
-“o técnico tinha anotado uma observação importante sobre um notebook num papel, e depois ninguém lembrava exatamente onde tinha colocado. A gente acabou tendo que ligar para o cliente de novo para confirmar o que tinha sido combinado.
-Também já aconteceu de eu procurar uma autorização de orçamento e ela estar numa conversa antiga do WhatsApp.”
-2 - O sistema deve permitir atualizar o status da ordem de serviço conforme o andamento do serviço. 
-
-“preciso perguntar para descobrir se está aguardando diagnóstico, se o orçamento foi enviado para o cliente ou se já foi autorizado e está esperando uma peça.”
-3 - O sistema deve permitir consultar as informações e o status de uma ordem de serviço 
-“Às vezes eu preciso saber, por exemplo, em que situação está determinado computador, se o cliente já aprovou o orçamento ou se já foi trocada alguma peça. Aí tenho que ficar procurando informação com o técnico ou revendo as anotações.“
-Requisito Não Funcional
-1 - O sistema deve suportar até 8 usuários utilizando-o simultaneamente. 
-
-“Talvez, em um dia mais movimentado, chegue a uns 8 usuários”
-2 - O sistema deve suportar o gerenciamento de até 70 ordens de serviço abertas simultaneamente. 
-
-“Nessas semanas podemos chegar a 60 ou 70 ordens abertas.”
-
-
-História de Usuário
-1 - Como responsável administrativa, quero consultar o status de uma ordem de serviço, para informar ao cliente o andamento do equipamento.
-
-“cliente ligar perguntando sobre o equipamento e eu não conseguir responder na hora.”
-2 - Como responsável administrativa, quero consultar os serviços realizados, as peças utilizadas e o valor final, para fechar corretamente a ordem de serviço.
-
-“Conferir o que foi feito, quais peças foram usadas, quanto ficou o valor final e depois registrar isso.”
-
+https://docs.google.com/document/d/1D_Tx4N8hUDidFmz5uTGZw8avdcjP9UIh/edit?usp=sharing&ouid=110881343850363794945&rtpof=true&sd=true
 
 
 
