@@ -46,10 +46,4 @@ Incremental: Seria o mais adequado por conta do prazo de entrega e a forma de co
 
 https://docs.google.com/document/d/1D_Tx4N8hUDidFmz5uTGZw8avdcjP9UIh/edit?usp=sharing&ouid=110881343850363794945&rtpof=true&sd=true
 
-
-
-
-É OS GURI
-
-
-
+bah
