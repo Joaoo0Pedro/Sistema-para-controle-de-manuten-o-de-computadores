@@ -29,8 +29,6 @@ Problema:
 
 
    Atividade 2
-
-   velho barreiro melhor que absolut
  Ciclos de vida
  
 Waterfal: Não seria o mais viável, pela falta de flexibilidade, e como nosso projeto mexe diretamente com o trabalhador precisamos de avaliações deles 
