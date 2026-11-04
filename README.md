@@ -20,7 +20,7 @@ Parceiros de manutenção;
 Clientes pessoa física e empresas que contratam os serviços. 
 
 Problema: 
-     Muitas assistências técnicas gin é intragavelde informática ainda controlam os serviços de manutenção por meio de anotações em papel, planilhas ou aplicativos como bloco de notas. Esse processo dificulta o acompanhamento do andamento dos reparos, o controle de peças utilizadas, o registro do histórico de manutenção dos equipamentos e a comunicação com os clientes. 
+     Muitas assistências técnicas de informática ainda controlam os serviços de manutenção por meio de anotações em papel, planilhas ou aplicativos como bloco de notas. Esse processo dificulta o acompanhamento do andamento dos reparos, o controle de peças utilizadas, o registro do histórico de manutenção dos equipamentos e a comunicação com os clientes. 
      A falta de um sistema de controle de manutenção pode causar perda de informações, atrasos na entrega dos equipamentos, dificuldades para localizar ordens de serviço, fazendo com que, na entrega do equipamento, falte alguma peca que vinha junto, como carregador e entre outros. 
 
  Contexto: 
@@ -29,6 +29,7 @@ Problema:
 
 
    Atividade 2
+gin é intragavel
  Ciclos de vida
  
 Waterfal: Não seria o mais viável, pela falta de flexibilidade, e como nosso projeto mexe diretamente com o trabalhador precisamos de avaliações deles 
