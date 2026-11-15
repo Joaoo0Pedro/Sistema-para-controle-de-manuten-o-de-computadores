@@ -1,46 +1,77 @@
-# Sistema-para-controle-de-manuten-o-de-computadores
-Sistema para controle de manutenção de computadores
+# Sistema para Controle de Manutenção de Computadores
 
-Integrantes: 
-Arthur Matos dos Reis,
-João Pedro Chimello Goulart,
-Yudi Michel Noronha Hartmann.
+> Dossiê de Engenharia de Software desenvolvido para a disciplina de Processos de Engenharia de Software — ULBRA, 2026/2.
 
-Atividade 1
+## Sobre o projeto
 
-Público: 
-     O público principal é formado por técnicos de informática e atendentes de assistências técnicas, que precisam registrar, acompanhar e atualizar as ordens de serviço. Também fazem parte do público os clientes, que desejam acompanhar o andamento da manutenção e receber informações claras sobre o status do equipamento e os prazos de entrega. 
+O **Sistema para Controle de Manutenção de Computadores** é um projeto voltado a pequenas e médias assistências técnicas e profissionais autônomos que trabalham com manutenção de computadores.
 
- Stakeholders: 
-Além do público direto, as principais partes interessadas são: 
-Proprietários e gestores da assistência técnica; 
-Técnicos responsáveis pelos reparos; 
-Fornecedores de peças e componentes; 
-Parceiros de manutenção; 
-Clientes pessoa física e empresas que contratam os serviços. 
+O projeto surgiu da necessidade de organizar melhor as informações relacionadas aos serviços de manutenção. Em muitas assistências, o controle ainda é realizado por meio de anotações, planilhas ou aplicativos simples, o que pode dificultar o acompanhamento dos serviços, causar perda de informações e gerar atrasos.
 
-Problema: 
-     Muitas assistências técnicas de informática ainda controlam os serviços de manutenção por meio de anotações em papel, planilhas ou aplicativos como bloco de notas. Esse processo dificulta o acompanhamento do andamento dos reparos, o controle de peças utilizadas, o registro do histórico de manutenção dos equipamentos e a comunicação com os clientes. 
-     A falta de um sistema de controle de manutenção pode causar perda de informações, atrasos na entrega dos equipamentos, dificuldades para localizar ordens de serviço, fazendo com que, na entrega do equipamento, falte alguma peca que vinha junto, como carregador e entre outros. 
+A proposta é centralizar essas informações em um sistema, facilitando o gerenciamento dos clientes, equipamentos, ordens de serviço e orçamentos.
 
- Contexto: 
-     Esse problema ocorre em pequenas e médias empresas de assistência técnica, oficinas de manutenção de computadores e profissionais autônomos que realizam reparos em notebooks, desktops e outros equipamentos de informática. Em muitos casos, o controle é feito manualmente, desde o recebimento do equipamento até a entrega ao cliente. 
-     Durante o processo de manutenção, são registradas informações como defeitos relatados, diagnóstico técnico, troca de peças, testes realizados, orçamento aprovado e status do serviço. Sem um sistema adequado, essas informações ficam dispersas e dependem da organização individual dos técnicos.
+## Objetivo
 
+Desenvolver uma solução que auxilie no controle e acompanhamento dos serviços de manutenção de computadores, melhorando a organização das informações e facilitando o trabalho das assistências técnicas.
 
-   Atividade 2
- Ciclos de vida
- 
-Waterfal: Não seria o mais viável, pela falta de flexibilidade, e como nosso projeto mexe diretamente com o trabalhador precisamos de avaliações deles 
-Incremental: Seria o mais adequado por conta do prazo de entrega e a forma de como o projeto pode ficar mais seguro ao longo de seu desenvolvimento, evitando alterações contínuas do código até a sua entrega final. Ágil: Não seria o mais viável por conta do curto prazo de entregas, podendo ser entregue um código com mal funcionamento e com defeitos. O contato contínuo com o cliente pode atrapalhar o desenvolvimento do projeto. 
+## Público-alvo
 
+- Pequenas e médias assistências técnicas de informática.
+- Técnicos responsáveis pelos serviços de manutenção.
+- Atendentes e gestores de assistências técnicas.
+- Profissionais autônomos que realizam reparos em computadores.
 
-   Atividade 3
-   
- Entrevistas anexadas
+## Principais funcionalidades previstas
 
- 
-   Atividade 4 
- RF, RNF, Historia, regra de negocio
+- Cadastro e gerenciamento de clientes.
+- Cadastro e gerenciamento de computadores.
+- Abertura e acompanhamento de ordens de serviço.
+- Registro de informações sobre os reparos.
+- Elaboração e aprovação de orçamentos.
+- Acompanhamento do andamento dos serviços.
+- Consulta ao histórico de manutenção.
 
-https://docs.google.com/document/d/1D_Tx4N8hUDidFmz5uTGZw8avdcjP9UIh/edit?usp=sharing&ouid=110881343850363794945&rtpof=true&sd=true
+*As funcionalidades representam o escopo planejado para o sistema e podem evoluir conforme as necessidades identificadas durante o projeto.*
+
+## Processo de desenvolvimento
+
+A equipe adotou a abordagem **Ágil com Kanban**, buscando organizar o trabalho de forma contínua e permitir ajustes conforme o retorno da stakeholder.
+
+O fluxo de trabalho definido é:
+
+**Backlog → A Fazer → Em Desenvolvimento → Em Teste → Concluído**
+
+Foi estabelecido um limite de três tarefas em andamento (WIP 3), para ajudar a equipe a manter o foco e controlar o volume de atividades simultâneas.
+
+## Equipe
+
+| Integrante | Responsabilidade |
+|---|---|
+| **Yudi Michel Noronha Hartmann** | Product Owner (PO) — contato com a stakeholder, levantamento de requisitos e priorização |
+| **João Pedro Chimello Goulart** | Desenvolvedor — implementação e commits |
+| **Arthur Matos dos Reis** | Testador — revisão e testes |
+
+**Stakeholder:** Marina — responsável administrativa que contribui com as necessidades e os retornos utilizados na evolução do projeto.
+
+## Documentação do projeto
+
+Este repositório reúne os registros e materiais produzidos ao longo das atividades da disciplina.
+
+| Arquivo | Descrição |
+|---|---|
+| [CHANGELOG.md](CHANGELOG.md) | Histórico de mudanças e decisões relevantes do projeto |
+| [Entrevista com gestores da assistência técnica](<Entrevista com gestores da assistência técnica IA.pdf>) | Material de entrevista utilizado no levantamento de necessidades |
+| [Entrevista com proprietário](<Entrevista com propietário usando IA.pdf>) | Material complementar para compreender o contexto do negócio |
+| [Membros da equipe administrativa](<membros da equipe administrativa>) | Registro relacionado à equipe do projeto |
+
+## Evolução do projeto
+
+O projeto é desenvolvido por etapas, desde a identificação do problema e levantamento de requisitos até o planejamento, modelagem, arquitetura e qualidade.
+
+As mudanças solicitadas pela stakeholder são analisadas pela equipe, considerando seus impactos nos requisitos, no planejamento e nas entregas.
+
+---
+
+**Instituição:** Universidade Luterana do Brasil (ULBRA)  
+**Disciplina:** Processos de Engenharia de Software  
+**Semestre:** 2026/2
