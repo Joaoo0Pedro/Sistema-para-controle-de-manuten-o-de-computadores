@@ -70,8 +70,8 @@ Foi estabelecido um limite de três tarefas em andamento (WIP 3), para ajudar a 
 
 ## Entrevistas
 
-- [Entrevista com gestores da assistência técnica](Entrevista%20com%20gestores%20da%20assistência%20técnica%20IA.pdf)
-- [Entrevista com proprietário](Entrevista%20com%20propietário%20usando%20IA.pdf)
+- [Entrevista com gestores da assistência técnica](https://github.com/Joaoo0Pedro/Sistema-para-controle-de-manuten-o-de-computadores/blob/main/Docs/Entrevista%20com%20gestores%20da%20assist%C3%AAncia%20t%C3%A9cnica%20IA.pdf)
+- [Entrevista com proprietário](https://github.com/Joaoo0Pedro/Sistema-para-controle-de-manuten-o-de-computadores/blob/main/Docs/Entrevista%20com%20propiet%C3%A1rio%20usando%20IA.pdf)
 
 ## Evolução do projeto
 
