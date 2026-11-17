@@ -1,5 +1,5 @@
 
-# Entrevista com a Stakeholder – Marina
+# Entrevista com a Stakeholder – Marina (Principal Stakeholder)
 
 **Projeto:** Sistema para Controle de Manutenção de Computadores  
 **Stakeholder:** Marina – Responsável Administrativa  
