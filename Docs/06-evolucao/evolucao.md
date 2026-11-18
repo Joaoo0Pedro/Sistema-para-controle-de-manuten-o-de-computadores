@@ -69,12 +69,12 @@ A implementação no sistema, a revisão do código e a execução dos testes ai
 
 A atividade A14 identificou dívidas técnicas no projeto, que devem ser acompanhadas pela equipe.
 
-| ID | Descrição | Onde | Tipo | Quadrante | Juros | Custo | Decisão | Quando |
-|---|---|---|---|---|---|---|---|---|
-| DT-01 | A preencher conforme registro da A14. | A confirmar | A confirmar | A confirmar | A confirmar | A confirmar | A confirmar | A confirmar |
-| DT-02 | A preencher conforme registro atualizado da A14. | A confirmar | A confirmar | A confirmar | A confirmar | A confirmar | A confirmar | A confirmar |
-| DT-03 | A preencher conforme registro da A14. | A confirmar | A confirmar | A confirmar | A confirmar | A confirmar | A confirmar | A confirmar |
-| DT-04 | A preencher conforme registro da A14. | A confirmar | A confirmar | A confirmar | A confirmar | A confirmar | A confirmar | A confirmar |
+| **ID** | **Descrição** | **Onde** | **Tipo** | **Quadrante** | **Juros** | **Custo** | **Decisão** | **Quando** |
+| ------ | ------------- | -------- | -------- | ------------- | -------- | -------- | ---------- | ---------- |
+| DT-01 | Documentação pode estar desatualizada após a solicitação de mudança SM-01. | Matriz de rastreabilidade e documentos de requisitos. | Documentação | Deliberada e prudente | Informações diferentes entre documentos podem causar confusão durante o desenvolvimento e os testes. | A definir | Planejar o pagamento | A definir |
+| DT-02 | Alguns requisitos podem não possuir critérios de aceitação suficientemente detalhados. | Backlog e documentação dos requisitos. | Documentação / Requisitos | Acidental e prudente | Podem surgir interpretações diferentes entre os integrantes e retrabalho durante o desenvolvimento. | A definir | Planejar o pagamento | A definir |
+| DT-03 | A cobertura de testes do sistema ainda pode ser insuficiente para verificar todos os cenários das funcionalidades. | Funcionalidades implementadas e documentação de testes. | Produto – Testes | Deliberada e prudente | Erros podem passar despercebidos e comprometer o funcionamento do sistema. | A definir | Planejar o pagamento | A definir |
+| DT-04 | Os documentos do projeto estão separados, sem uma organização centralizada no repositório. | Repositório e documentos do projeto. | Organização / Documentação | Deliberada e imprudente | Pode ficar difícil localizar versões atualizadas, acompanhar alterações e manter a equipe alinhada. | A definir | Planejar o pagamento | A definir |
 
 ## Riscos atualizados
 
